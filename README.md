@@ -7,7 +7,6 @@ Este repositório contém os arquivos HTML que formam o meu **portfólio profiss
 
 - HTML
 - CSS
-- JavaScript (se houver interatividade nos sites)
 
 ## 💻 Como Visualizar os Sites
 
